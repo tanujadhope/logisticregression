@@ -1,4 +1,4 @@
-# logisticregression
+# logistic regression
 Data Preprocessing Project – Imbalanced Classes Problem
 Imbalanced classes is one of the major problems in machine learning. In this data preprocessing project, I discuss the imbalanced classes problem. Also, I discuss various approaches to deal with this imbalanced classes problem.
 
@@ -16,7 +16,7 @@ Eg.As the disease is extremely rare, so there are only 1% of patient who actuall
 
 First 3 methods has been implemented.
 
-Conclusion
+Conclusion:
 In this jupyter notebook, I have implemented  random undersampling,over-sampling and SMOTE.
 
 Some combination of these approaches will help us to create a better classifier. Simple sampling techniques may handle slight imbalance whereas more advanced methods like ensemble methods are required for extreme imbalances. The most effective technique will vary according to the dataset.
